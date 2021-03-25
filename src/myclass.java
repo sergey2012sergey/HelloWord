@@ -3,3 +3,4 @@ public class myclass {
         int y=7;
     }
 }
+i dont know what im doing
